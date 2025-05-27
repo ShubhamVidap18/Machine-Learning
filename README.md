@@ -30,12 +30,6 @@ Each file or notebook in this repository represents a concept I’ve studied and
 
 ---
 
-## 📁 Structure
-
-The repository is organized by concept and type of implementation. Each section is written in a way that explains the idea followed by practical code and results.
-
----
-
 ## 🙌 Final Note
 
 This repository is a work-in-progress, as I continue to explore and grow in the field of Machine Learning.  
