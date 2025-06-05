@@ -23,7 +23,7 @@ Each file or notebook in this repository represents a concept I’ve studied and
 
 - Python
 - Jupyter Notebook
-- Popular ML libraries (e.g., scikit-learn, pandas, matplotlib, etc.)
+- Popular ML libraries (e.g., scikit-learn, pandas, matplotlib, seaborn.)
 
 
 ## 🙌 Final Note
